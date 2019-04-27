@@ -1,0 +1,108 @@
+body {
+    background-repeat: no-repeat;
+	background-color:#DFDAC3;
+    background-attachment: fixed;
+    background-position: center; 
+}
+footer {
+    margin: 10px;
+    padding: 5px 20px;
+    border-radius: 10px;
+    text-align: left;
+    color: black;
+    font-family: "Tempus Sans ITC";
+    background-color: #000;
+    max-width: 100%;
+}
+
+    
+}
+#Welcome{
+    margin: 10px;
+}
+ul {
+    text-align: center;
+    color: solid black;
+	
+        
+    font-family: "Arial";
+    margin: 10px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a:link{
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    text-decoration: black;
+    color: red;
+}
+a:active {
+    text-decoration: black;
+    color: black;
+}
+a:checked{
+    text-decoration: none;
+    color: red;
+}
+zsuzsa{
+	margin-left:auto;
+margin-right:auto;
+}
+li {
+    float: left;
+    padding-right: 25px;
+	absolute-position:center;
+    max-width: 1024;
+    margin: 0 auto;
+	text-decoration: underline;
+}
+#menu {
+   
+	background-color:#DFDAC3;
+    height: 35px;
+    
+}
+img{
+	text-align:center;
+}
+#felirat{
+    margin:50px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+	background-color:#F5F2E0;
+    text-align: justify;
+    float:left;
+    max-width: 100%;
+    
+}
+h1 {
+    font-size: xx-large;
+    padding: 0px 30px;
+    font-family: "Arial";
+    color: black;
+    text-align: center;
+}
+p {
+    font-size: inherit;
+    font-weight: 100;
+    padding: 0px 30px;
+    font-family: "Arial";
+    color: black;
+}
+h2 {
+    font-weight: 150;
+    padding: 0px 30px;
+    font-family: "Calibri";
+    color: black;
+    text-align: center;
+}
+
+#google {
+    text-align: rightÅ±;
+}
+
